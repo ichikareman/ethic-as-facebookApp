@@ -381,10 +381,10 @@
 
 
 	?>
-<!--	<br/>
+	<br/>
 <br />
 <a href="poll.php">poll</a>
-
+<!--
 <div id="fb-root"></div>
 				<script src="http://connect.facebook.net/en_US/all.js#appId=108911635849816&amp;xfbml=1"></script>
 				<fb:comments xid="fevzandgem" numposts="5" width="400"></fb:comments><P><P>-->
